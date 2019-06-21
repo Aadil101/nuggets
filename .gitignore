@@ -1,0 +1,11 @@
+.vscode
+server
+player
+grid
+sunbir.log
+.DS_Store
+logfile
+.nfs000000015805547200000100
+*.a
+*.o
+*.log
